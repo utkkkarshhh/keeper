@@ -5,7 +5,6 @@ import Footer from "./components/Footer";
 import Note from "./components/Note";
 import CreateArea from "./components/CreateArea";
 
-
 function App() {
   const [notes, setNotes] = useState([]);
 
